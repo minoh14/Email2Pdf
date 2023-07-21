@@ -5,9 +5,9 @@ The conversion is done using a python script which borrows most of its code from
 This library requires the following prerequisites on the robot machine:
 
 * Microsoft Outlook installed
+* [wkhtmltopdf(x64)](https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox-0.12.6-1.msvc2015-win64.exe) installed
 * Python 3.10 x64  
   pip install **pywin32**  
-  pip install **wkhtmltopdf**
 
 Supported file formats:
 
